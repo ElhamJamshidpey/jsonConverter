@@ -14,7 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * Utility for converting object to json standard format and vice versa 
  * @author elham.jamshidpey@gmail.com on 05/11/2018
  */
-public class JsonConverterUtility {
+public class JsonConverterUtility{
 	
 	private static ObjectMapper mapper = new ObjectMapper();
 
