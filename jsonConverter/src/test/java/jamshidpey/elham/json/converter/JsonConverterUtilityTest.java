@@ -16,6 +16,7 @@ import org.junit.Test;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonMappingException;
+import com.github.elhamjamshidpey.json.converter.JsonConverterUtility;
 
 public class JsonConverterUtilityTest {
 
