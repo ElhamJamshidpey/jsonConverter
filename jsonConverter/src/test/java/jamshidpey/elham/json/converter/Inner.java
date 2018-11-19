@@ -3,7 +3,7 @@ package jamshidpey.elham.json.converter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Inner {
+public class Inner{
 	
 	private String stringValue;
 	private List<String> stringList = new ArrayList<String>();

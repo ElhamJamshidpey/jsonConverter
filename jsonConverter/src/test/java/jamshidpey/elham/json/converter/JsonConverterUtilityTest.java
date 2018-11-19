@@ -18,7 +18,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.github.elhamjamshidpey.json.converter.JsonConverterUtility;
 
-public class JsonConverterUtilityTest {
+public class JsonConverterUtilityTest{
 
 	private Sample obj;
 	private String json;

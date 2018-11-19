@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Sample {
+public class Sample{
 
 	private List<String> stringList = new ArrayList<String>();
 	private Integer integerValue;
