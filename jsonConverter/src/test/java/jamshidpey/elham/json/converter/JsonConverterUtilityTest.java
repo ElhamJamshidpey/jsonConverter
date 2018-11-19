@@ -1,4 +1,4 @@
-package com.github.elhamjamshidpey.json.converter;
+package jamshidpey.elham.json.converter;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;

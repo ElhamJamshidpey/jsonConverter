@@ -1,4 +1,4 @@
-package com.github.elhamjamshidpey.json.converter;
+package jamshidpey.elham.json.converter;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

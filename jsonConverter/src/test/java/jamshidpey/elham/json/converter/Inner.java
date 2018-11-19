@@ -1,4 +1,4 @@
-package com.github.elhamjamshidpey.json.converter;
+package jamshidpey.elham.json.converter;
 
 import java.util.ArrayList;
 import java.util.List;
